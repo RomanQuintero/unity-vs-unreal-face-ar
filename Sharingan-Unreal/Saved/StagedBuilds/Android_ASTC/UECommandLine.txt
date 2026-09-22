@@ -1,0 +1,1 @@
+-project="../../../SharinganUnreal/SharinganUnreal.uproject" /Game/HandheldAR/Maps/HandheldARBlankMap -Messaging

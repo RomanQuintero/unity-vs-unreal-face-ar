@@ -1,0 +1,21 @@
+{
+	"zenserver": {
+		"islocalhost": true,
+		"hostname": "[::1]",
+		"remotehostnames": [
+			"192.168.68.50",
+			"192.168.56.1",
+			"172.22.48.1",
+			"192.168.144.1",
+			"hostname://host.docker.internal"
+		],
+		"hostport": 8558,
+		"hostauth": {
+			"type": "password",
+			"username": "ue",
+			"password": "7D52A8AB4C7CDFA5BD08AEA165AA3B39"
+		},
+		"projectid": "SharinganUnreal.81bb0af9",
+		"oplogid": "Android"
+	}
+}

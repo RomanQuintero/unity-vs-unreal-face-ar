@@ -1,0 +1,1 @@
+"C:/Users/mugen/Desktop/30-Projects/04/SharinganUnreal 5.8/Saved/ShaderDebugInfo/PCD3D_SM5/Material_0_32ff7c59810f8880/Default/FLocalVertexFactory/TBasePassPSFNoLightMapPolicy/0" 0 "DebugCompile" DebugCompile.in DebugCompile.out -DebugSourceFiles="BasePassPixelShader.usf" -TimeToLive=0.0f -KeepInput

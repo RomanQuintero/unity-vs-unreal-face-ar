@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/mugen/Desktop/30-Projects/04/SharinganUnreal 5.8/Content/HandheldAR/D_ARFaceSessionConfig.uasset",
+				"C:/Users/mugen/Desktop/30-Projects/04/SharinganUnreal 5.8/Content/HandheldAR/Blueprints/BP_SharinganEye.uasset",
+				"C:/Users/mugen/Desktop/30-Projects/04/SharinganUnreal 5.8/Content/HandheldAR/Blueprints/GameFramework/BP_ARPawn.uasset",
+				"C:/Users/mugen/Desktop/30-Projects/04/SharinganUnreal 5.8/Content/M_SharinganEye.uasset",
+				"C:/Users/mugen/Desktop/30-Projects/04/SharinganUnreal 5.8/Content/Eye-Lens-Sharingan-PNG-Image.uasset",
+				"C:/Users/mugen/Desktop/30-Projects/04/SharinganUnreal 5.8/Content/HandheldAR/Blueprints/Placeable/BP_SharinganEye.uasset"
+			]
+		}
+	]
+}

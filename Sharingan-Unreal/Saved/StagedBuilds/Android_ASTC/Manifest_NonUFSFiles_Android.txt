@@ -1,0 +1,10 @@
+Engine/Content/Renderer/TessellationTable.bin	2026-09-22T06:20:27.537Z
+Engine/Config/StagedBuild_SharinganUnreal.ini	2026-09-22T15:10:22.472Z
+ue.projectstore	2026-09-22T15:10:22.554Z
+Engine/Binaries/ThirdParty/Vulkan/Android/16kb_page_support.patch	2026-09-22T06:19:39.695Z
+Engine/Binaries/ThirdParty/Vulkan/Android/arm64-v8a/libVkLayer_khronos_validation.so	2026-09-22T09:13:16.416Z
+Engine/Binaries/ThirdParty/Vulkan/Android/armeabi-v7a/libVkLayer_khronos_validation.so	2026-09-22T09:13:16.662Z
+Engine/Binaries/ThirdParty/Vulkan/Android/x86/libVkLayer_khronos_validation.so	2026-09-22T09:13:16.926Z
+Engine/Binaries/ThirdParty/Vulkan/Android/x86_64/libVkLayer_khronos_validation.so	2026-09-22T09:13:17.265Z
+UECommandLine.txt	CB39E10C598C784C23885815D8FBB1E6
+NOTICES.txt	2026-09-22T06:24:34.953Z

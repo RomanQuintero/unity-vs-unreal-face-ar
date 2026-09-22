@@ -1,0 +1,13 @@
+diff --git a/layers/CMakeLists.txt b/layers/CMakeLists.txt
+index daa2ab18a..920263d32 100644
+--- a/layers/CMakeLists.txt
++++ b/layers/CMakeLists.txt
+@@ -481,6 +481,8 @@ if (ANDROID)
+     # Required for AHardwareBuffer_describe. Marking as PUBLIC since the tests use AHardwareBuffer_describe as well.
+     target_link_libraries(VkLayer_utils PUBLIC android)
+ 
++    target_link_options(vvl PRIVATE -z max-page-size=16384)
++
+     install(TARGETS vvl DESTINATION ${CMAKE_INSTALL_LIBDIR})
+ 
+     return()

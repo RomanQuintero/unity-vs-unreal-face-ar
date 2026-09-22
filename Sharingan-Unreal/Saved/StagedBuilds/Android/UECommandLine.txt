@@ -1,0 +1,1 @@
+-project="../../../SharinganUnreal/SharinganUnreal.uproject"  -Messaging
