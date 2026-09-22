@@ -77,8 +77,8 @@ Both implementations reached the target. The largest observed difference was dev
 
 ```text
 .
-├── Sharingan/          # Unity implementation
-├── SharinganUnreal 5.8/         # Unreal Engine implementation
+├── Sharingan-Unity/          # Unity implementation
+├── Sharingan-Unreal/         # Unreal Engine implementation
 └── docs/
     ├── unity.gif
     └── unreal.gif
