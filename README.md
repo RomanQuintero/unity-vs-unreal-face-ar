@@ -10,13 +10,20 @@ This is not intended to determine which engine is "better". It documents how far
 
 Both engines ultimately produced a comparable real-time face AR prototype on the same Android device.
 
-### Unity
-
-![Unity Face AR](docs/unity.gif)
-
-### Unreal Engine
-
-![Unreal Face AR](docs/unreal.gif)
+<table>
+  <tr>
+    <th>Unity</th>
+    <th>Unreal Engine</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/unity.gif" width="300" alt="Unity Face AR">
+    </td>
+    <td align="center">
+      <img src="docs/unreal.gif" width="300" alt="Unreal Engine Face AR">
+    </td>
+  </tr>
+</table>
 
 The final results were surprisingly close.
 
